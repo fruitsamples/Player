@@ -30,7 +30,7 @@
 	<key>CFBundleName</key>
 	<string>QuartzComposerPlayer</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
